@@ -1,4 +1,7 @@
 {
+  "name": "discord-bot-template",
+  "author": "verico-team",
+  "repository": "https://github.com/verico-team/discord-bot-template",
   "dependencies": {
     "discord.js": "^14.14.1",
     "dotenv": "^16.3.1"
